@@ -1,6 +1,6 @@
 # 🍽️ Zomato Restaurant Analysis
 
-End-to-end data analysis project exploring restaurant performance on Zomato — covering online ordering, table booking, pricing strategy, restaurant format, and market positioning. Built in Python using Jupyter Notebook.
+End-to-end data analysis project exploring restaurant performance on Zomato covering online ordering, table booking, pricing strategy, restaurant format, and market positioning. Built in Python using Jupyter Notebook.
 
 ## 📌 Business Problem
 
@@ -23,8 +23,8 @@ Does going digital (online ordering, table booking) actually pay off for restaur
 ## 🔍 Key Insights
 
 - **Digital features drive ratings:** Both online ordering (p < 0.0001) and table booking (p = 0.0011) are statistically significantly linked to higher restaurant ratings.
-- **Price is a weak predictor of quality:** Cost-for-two has only a weak correlation with rating (r = 0.275) — charging more doesn't reliably buy a better reputation.
-- **Format matters:** Restaurant type significantly affects rating (ANOVA, p = 0.0116). Dining restaurants combine solid ratings with by far the highest vote volumes — the most reliable format at scale.
+- **Price is a weak predictor of quality:** Cost-for-two has only a weak correlation with rating (r = 0.275) charging more doesn't reliably buy a better reputation.
+- **Format matters:** Restaurant type significantly affects rating (ANOVA, p = 0.0116). Dining restaurants combine solid ratings with by far the highest vote volumes the most reliable format at scale.
 - **Votes and ratings reinforce each other:** Popular restaurants tend to be rated higher, suggesting a feedback loop between visibility and perceived quality.
 - **Table booking is a "premium" signal:** It's adopted mostly by higher-cost, full-service "Dining" restaurants, not casual cafes or buffets.
 - **Market segmentation:** K-Means clustering on rating, votes, and cost reveals natural restaurant archetypes (e.g., "hidden gems," "premium leaders," "mass-market reliable") beyond simple price tiers.
@@ -76,15 +76,15 @@ A deeper, multi-stakeholder analysis covering:
 
 ## 📈 Sample Visuals
 
-*(Add 2–3 screenshots of your favorite charts here — e.g. the format × price heatmap, the rating-by-feature boxplots, or the cluster scatter plot. Drag and drop images directly into this section when editing the README on GitHub.)*
-<img width="642" height="472" alt="download" src="https://github.com/user-attachments/assets/e784a31e-01d5-47c2-9f4c-c035cfdc5116" />
+<img width="635" height="470" alt="download" src="https://github.com/user-attachments/assets/ad147343-e0b4-4b46-839e-3f8f88f0694d" />
 
-<img width="1587" height="487" alt="download" src="https://github.com/user-attachments/assets/93c2b75a-5638-4469-ae66-cf793f73ef94" />
+<img width="1387" height="487" alt="download" src="https://github.com/user-attachments/assets/727d01ee-3b23-4825-90ed-ee61714a484c" />
 
-<img width="626" height="549" alt="download" src="https://github.com/user-attachments/assets/9b43b335-a550-4149-8756-9042d46b17fd" />
+<img width="506" height="451" alt="download" src="https://github.com/user-attachments/assets/1da257b8-7d49-415a-abbe-2e98dc11547d" />
 
-<img width="626" height="549" alt="download" src="https://github.com/user-attachments/assets/460d0607-2ccd-46e9-833e-ca3318fa158a" />
+<img width="1037" height="487" alt="download" src="https://github.com/user-attachments/assets/dac58c0d-20c2-4296-945f-45f1fc5db870" />
 
+<img width="626" height="549" alt="download" src="https://github.com/user-attachments/assets/94e6dd76-0eb3-4a40-aeef-d3321dfbed8a" />
 
 
 
