@@ -29,7 +29,7 @@ Python, Pandas, Matplotlib, Seaborn, SciPy, Scikit-learn, Jupyter Notebook
 3. Open the notebook in Jupyter and run all cells
 
 ## 📈 Sample Visuals
-<img width="847" height="732" alt="Screenshot 2026-06-24 203347" src="https://github.com/user-attachments/assets/11e5b749-8747-432a-8b4e-3e5563f7cb88" />
+<img width="500" height="500" alt="Screenshot 2026-06-24 203347" src="https://github.com/user-attachments/assets/11e5b749-8747-432a-8b4e-3e5563f7cb88" />
 
 
 ## 👤 Author
