@@ -90,8 +90,8 @@ A deeper, multi-stakeholder analysis covering:
 
 ## ⚠️ Limitations
 
-- Sample size (148 restaurants) is modest — segment-level conclusions for rare categories (e.g. Buffet) are directional, not definitive.
-- No location, cuisine, or time-series data — these could be confounding variables.
+- Sample size (148 restaurants) is modest segment-level conclusions for rare categories (e.g. Buffet) are directional, not definitive.
+- No location, cuisine, or time-series data these could be confounding variables.
 - Clustering and scoring are descriptive tools, not predictive/causal models.
 
 ## 👤 Author
