@@ -29,10 +29,10 @@ Python, Pandas, Matplotlib, Seaborn, SciPy, Scikit-learn, Jupyter Notebook
 3. Open the notebook in Jupyter and run all cells
 
 ## 📈 Sample Visuals
-<img width="500" height="500" alt="Screenshot 2026-06-24 203347" src="https://github.com/user-attachments/assets/11e5b749-8747-432a-8b4e-3e5563f7cb88" />
-<img width="600" height="682" alt="Screenshot 2026-06-24 203515" src="https://github.com/user-attachments/assets/08e04b39-90c2-451b-916f-765be326a853" />
+<img width="787" height="682" alt="Screenshot 2026-06-24 203347" src="https://github.com/user-attachments/assets/11e5b749-8747-432a-8b4e-3e5563f7cb88" />
+<img width="787" height="682" alt="Screenshot 2026-06-24 203515" src="https://github.com/user-attachments/assets/08e04b39-90c2-451b-916f-765be326a853" />
 <img width="787" height="682" alt="Screenshot 2026-06-24 203637" src="https://github.com/user-attachments/assets/6c0c0324-57d3-4daf-9909-9b1b9a8eabe8" />
-<img width="897" height="682" alt="Screenshot 2026-06-24 203737" src="https://github.com/user-attachments/assets/d9d70852-e18d-4923-b602-f6e47155c112" />
+<img width="787" height="682" alt="Screenshot 2026-06-24 203737" src="https://github.com/user-attachments/assets/d9d70852-e18d-4923-b602-f6e47155c112" />
 
 ## 👤 Author
 Akashdeep Boxi | [LinkedIn](https://linkedin.com/in/akashdeep-boxi-130a803a4) | akashuntgrad@gmail.com
