@@ -4,7 +4,7 @@ End-to-end data analysis project exploring restaurant performance on Zomato — 
 
 ## 📌 Business Problem
 
-Does going digital (online ordering, table booking) actually pay off for restaurants on Zomato? And more broadly — what combination of format, price, and features gives a restaurant the best odds of success on the platform?
+Does going digital (online ordering, table booking) actually pay off for restaurants on Zomato? And more broadly what combination of format, price, and features gives a restaurant the best odds of success on the platform?
 
 ## 📊 Dataset
 
@@ -75,13 +75,16 @@ A deeper, multi-stakeholder analysis covering:
 4. Run all cells (`Kernel → Restart & Run All`)
 
 ## 📈 Sample Visuals
-<img width="642" height="472" alt="download" src="https://github.com/user-attachments/assets/0a9a37ec-8f68-47e0-a820-51bc0f020062" />
 
-<img width="1587" height="487" alt="download" src="https://github.com/user-attachments/assets/9dffa724-2631-423e-9a9b-90af83ad1cbb" />
+*(Add 2–3 screenshots of your favorite charts here — e.g. the format × price heatmap, the rating-by-feature boxplots, or the cluster scatter plot. Drag and drop images directly into this section when editing the README on GitHub.)*
+<img width="642" height="472" alt="download" src="https://github.com/user-attachments/assets/e784a31e-01d5-47c2-9f4c-c035cfdc5116" />
 
-<img width="626" height="549" alt="download" src="https://github.com/user-attachments/assets/21afb9cf-a030-4d69-954c-1315e3d142c5" />
+<img width="1587" height="487" alt="download" src="https://github.com/user-attachments/assets/93c2b75a-5638-4469-ae66-cf793f73ef94" />
 
-<img width="626" height="549" alt="download" src="https://github.com/user-attachments/assets/516c7bf7-bc25-468f-a0ec-bf719903e67f" />
+<img width="626" height="549" alt="download" src="https://github.com/user-attachments/assets/9b43b335-a550-4149-8756-9042d46b17fd" />
+
+<img width="626" height="549" alt="download" src="https://github.com/user-attachments/assets/460d0607-2ccd-46e9-833e-ca3318fa158a" />
+
 
 
 
@@ -93,5 +96,4 @@ A deeper, multi-stakeholder analysis covering:
 
 ## 👤 Author
 
-Akashdeep Boxi · [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akashdeep-boxi-130a803a4)<img width="642" height="472" alt="download" src="https://github.com/user-attachments/assets/492fe703-053d-4bbc-ae6f-898d290f5dbf" />
- · akashuntgrad@gmail.com
+Akashdeep Boxi · [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akashdeep-boxi-130a803a4) · akashuntgrad@gmail.com
