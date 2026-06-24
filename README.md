@@ -32,4 +32,4 @@ Python, Pandas, Matplotlib, Seaborn, SciPy, Scikit-learn, Jupyter Notebook
 [Embed 2-3 key chart screenshots here]
 
 ## 👤 Author
-[Your name] | [LinkedIn] | [Email]
+[Akashdeep Boxi] | [linkedin.com/in/akashdeep-boxi-130a803a4] | [akashuntgrad@gmail.com]
